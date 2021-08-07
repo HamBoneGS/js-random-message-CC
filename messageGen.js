@@ -1,4 +1,7 @@
-// Program to randomly generate messages
+// Func practice program from Codecademy
+// Purpose: to randomly generate messages
+// Author: Graham Schmidt
+// Date: 8/6/2021
 
 // Static arrays of options for creating messages
 let mealTimes = ['Breakfast', 'Lunch', 'Dinner'];
